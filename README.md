@@ -1,2 +1,5 @@
-# My-Portfolio-Page_v2
-Updating my portfolio page
+## Libraries
+- React
+- Font Awesome
+- Devicon
+- Particles.js
