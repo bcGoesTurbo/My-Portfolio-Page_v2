@@ -52,6 +52,12 @@ a {
   display: flex;
 }
 
+#resume {
+  opacity: 0.2;
+} 
+
+
+
 .nav-items li {
   margin: 30px;
   font-size: 14px;

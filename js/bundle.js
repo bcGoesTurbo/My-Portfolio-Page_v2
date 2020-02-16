@@ -28170,7 +28170,7 @@
 	            'li',
 	            null,
 	            _react2.default.createElement(
-	              'a',
+	              'div',
 	              { href: 'resume.pdf' },
 	              'Resume'
 	            )
