@@ -6,7 +6,7 @@ export default class Navbar extends React.Component {
     return (
       <div className="navbar">
         <li className="logo"><Link to="#">
-          <i className="fa fa-code" aria-hidden="true"></i> M <span style={{fontStyle: "italic", color: "#676666"}}>B-RAD</span>
+          <i className="fa fa-code" aria-hidden="true"></i> M <span style={{fontStyle: "italic", color: "#676666"}}>Majd</span>
         </Link></li>
         <ul className="nav-items">
           <li><Link to="/about">About</Link></li>

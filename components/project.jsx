@@ -4,9 +4,6 @@ export default class Project extends React.Component {
 
   render() {
     const iconClasses = {
-      "rails": "devicon-rails-plain",
-      "ruby": "devicon-ruby-plain",
-      "postgresql": "devicon-postgresql-plain",
       "javascript": "devicon-javascript-plain",
       "jquery": "devicon-jquery-plain",
       "html5": "devicon-html5-plain",

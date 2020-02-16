@@ -27203,36 +27203,36 @@
 	          _react2.default.createElement(
 	            'p',
 	            { className: 'title' },
-	            'Mohammad Majd'
+	            'Brad Cook'
 	          ),
 	          _react2.default.createElement(
 	            'p',
 	            { className: 'description' },
-	            'Software Developer'
+	            'Software Developer (Junior)'
 	          ),
 	          _react2.default.createElement(
 	            'div',
 	            { className: 'home-icons' },
 	            _react2.default.createElement(
 	              'a',
-	              { href: 'http://github.com/momajd' },
+	              { href: 'http://github.com/bcGoesTurbo' },
 	              _react2.default.createElement('i', { className: 'fa fa-github', 'aria-hidden': 'true' })
-	            ),
-	            _react2.default.createElement(
-	              'a',
-	              { href: 'http://linkedin.com/in/momajd' },
-	              _react2.default.createElement('i', { className: 'fa fa-linkedin-square', 'aria-hidden': 'true' })
-	            ),
-	            _react2.default.createElement(
-	              'a',
-	              { href: 'http://facebook.com/momajd' },
-	              _react2.default.createElement('i', { className: 'fa fa-facebook-square', 'aria-hidden': 'true' })
-	            ),
-	            _react2.default.createElement(
-	              'a',
-	              { href: 'mailto:mo.a.majd@gmail.com' },
-	              _react2.default.createElement('i', { className: 'fa fa-envelope', 'aria-hidden': 'true' })
-	            )
+	            )//,
+	            // _react2.default.createElement(
+	            //   'a',
+	            //   { href: 'http://linkedin.com/in/momajd' },
+	            //   _react2.default.createElement('i', { className: 'fa fa-linkedin-square', 'aria-hidden': 'true' })
+	            // ),
+	            // _react2.default.createElement(
+	            //   'a',
+	            //   { href: 'http://facebook.com/momajd' },
+	            //   _react2.default.createElement('i', { className: 'fa fa-facebook-square', 'aria-hidden': 'true' })
+	            // ),
+	            // _react2.default.createElement(
+	            //   'a',
+	            //   { href: 'mailto:mo.a.majd@gmail.com' },
+	            //   _react2.default.createElement('i', { className: 'fa fa-envelope', 'aria-hidden': 'true' })
+	            // )
 	          )
 	        )
 	      );
@@ -28128,11 +28128,11 @@
 	            _reactRouter.Link,
 	            { to: '#' },
 	            _react2.default.createElement('i', { className: 'fa fa-code', 'aria-hidden': 'true' }),
-	            ' M ',
+	            'B ',
 	            _react2.default.createElement(
 	              'span',
 	              { style: { fontStyle: "italic", color: "#676666" } },
-	              'Majd'
+	              'Cook'
 	            )
 	          )
 	        ),
@@ -28245,15 +28245,15 @@
 	              'About Me'
 	            ),
 	            _react2.default.createElement('br', null),
-	            'I\'m an engineer with a relentless curiousity and passion for building things.',
+	            'I\'m a student from Trilogy with a curiousity and passion for building things.',
 	            _react2.default.createElement('br', null),
 	            _react2.default.createElement('br', null),
-	            'I grew up working in a small family-owned construction company and helped build several houses and offices in South Jersey. My background in construction led me to study Civil Engineering at Drexel University, where I completed a dual BS/MS program with a concentration in Structural Engineering. After finishing college in 2009, I got a job as a bridge designer in the philly area. During my time as an engineer I got really into automating things, and I started dabbling with programming languages such as Ruby and Javascript.',
+	            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
 	            _react2.default.createElement('br', null),
 	            _react2.default.createElement('br', null),
-	            'By combining my analytical and problem-solving skills from engineering with my programming and web development knowledge, I believe I will be able to make a significant contribution to any team or company.'
+	            'Aliquam erat volutpat. Donec tincidunt, mi eu rhoncus fringilla, neque quam varius nibh, ac posuere odio lacus nec libero. Praesent elementum sagittis mollis. Nam vitae nulla id nisl tincidunt consequat. Morbi mattis turpis sed nunc placerat, non luctus lorem varius. Praesent ac orci in ante porta efficitur. Vivamus id nulla velit.'
 	          ),
-	          _react2.default.createElement('img', { className: 'portrait', src: 'images/about_picture.jpg' })
+	          _react2.default.createElement('img', { className: 'portrait', src: 'http://via.placeholder.com/450' })
 	        )
 	      );
 	    }
@@ -28336,26 +28336,6 @@
 	            _react2.default.createElement(
 	              'span',
 	              { className: 'skill' },
-	              _react2.default.createElement('i', { className: 'devicon-ruby-plain colored' }),
-	              _react2.default.createElement(
-	                'p',
-	                null,
-	                'Ruby'
-	              )
-	            ),
-	            _react2.default.createElement(
-	              'span',
-	              { className: 'skill' },
-	              _react2.default.createElement('i', { className: 'devicon-rails-plain colored' }),
-	              _react2.default.createElement(
-	                'p',
-	                null,
-	                'Rails'
-	              )
-	            ),
-	            _react2.default.createElement(
-	              'span',
-	              { className: 'skill' },
 	              _react2.default.createElement('i', { className: 'devicon-react-original colored' }),
 	              _react2.default.createElement(
 	                'p',
@@ -28376,16 +28356,6 @@
 	            _react2.default.createElement(
 	              'span',
 	              { className: 'skill' },
-	              _react2.default.createElement('i', { className: 'devicon-postgresql-plain colored' }),
-	              _react2.default.createElement(
-	                'p',
-	                null,
-	                'PostgreSQL'
-	              )
-	            ),
-	            _react2.default.createElement(
-	              'span',
-	              { className: 'skill' },
 	              _react2.default.createElement('i', { className: 'devicon-html5-plain colored' }),
 	              _react2.default.createElement(
 	                'p',
@@ -28401,8 +28371,48 @@
 	                'p',
 	                null,
 	                'CSS'
-	              )
-	            )
+				  )
+				),
+				_react2.default.createElement(
+					'span',
+					{ className: 'skill' },
+					_react2.default.createElement('i', { className: 'devicon-nodejs-plain colored' }),
+					_react2.default.createElement(
+					  'p',
+					  null,
+					  'NodeJS'
+					)
+				  ),
+				  _react2.default.createElement(
+					'span',
+					{ className: 'skill' },
+					_react2.default.createElement('i', { className: 'devicon-sequelize-plain colored' }),
+					_react2.default.createElement(
+					  'p',
+					  null,
+					  'Sequelize'
+					)
+				  ),
+				  _react2.default.createElement(
+					'span',
+					{ className: 'skill' },
+					_react2.default.createElement('i', { className: 'devicon-visualstudio-plain colored' }),
+					_react2.default.createElement(
+					  'p',
+					  null,
+					  'Visual Studio'
+					)
+				  ),
+				  _react2.default.createElement(
+					'span',
+					{ className: 'skill' },
+					_react2.default.createElement('i', { className: 'devicon-mysql-plain colored' }),
+					_react2.default.createElement(
+					  'p',
+					  null,
+					  'mySQL'
+					)
+				  )
 	          )
 	        )
 	      );
@@ -28468,7 +28478,7 @@
 	    value: function render() {
 	      var _this2 = this;
 	
-	      var filters = ["All", "Ruby", "Rails", "Javascript", "React", "jQuery", "Algorithm", "HTML5"];
+	      var filters = ["All", "Javascript", "React", "jQuery", "HTML5"];
 	
 	      var filterItems = filters.map(function (filter) {
 	        var filterClass = _this2.state.filterItem === filter.toLowerCase() ? "filter-item-underlined" : "filter-item";
@@ -28514,51 +28524,16 @@
 	            { className: 'filter-container' },
 	            filterItemsWithSeparator
 	          ),
-	          _react2.default.createElement(_project2.default, { title: 'Sudoku Solver', url: 'http://momajd.github.io/sudoku-solver/',
+	          _react2.default.createElement(_project2.default, { title: 'Star Wars Clicky Game', url: 'https://starwars-clicky-game.herokuapp.com/',
 	            filter: this.state.filterItem,
 	            technologies: ["javascript", "html5", "algorithm"],
-	            imageUrl: 'http://i.imgur.com/KdErCOU.gif',
-	            description: 'A sudoku solver that uses a backtracking algorithm. Renders animations asynchronously from a queue. Built with Javascript and HTML5 Canvas.' }),
-	          _react2.default.createElement(_project2.default, { title: 'Planets', url: 'https://momajd.github.io/planets/',
+	            imageUrl: 'images/SWclickyGame.png',
+	            description: 'A memory game using React, the application will render different images to the screen on click events.' }),
+	          _react2.default.createElement(_project2.default, { title: 'Sports Scrapper', url: 'https://sports-scraper-app.herokuapp.com/',
 	            filter: this.state.filterItem,
 	            technologies: ["javascript", "html5"],
-	            imageUrl: 'https://media.giphy.com/media/OclNTHOaVRggU/giphy.gif',
-	            description: 'A simulation of the solar system that uses Newton\'s Universal Law of Gravitation and 2nd Law of Motion. The user can zoom in and out, and also modify the mass of each planet to change gravitational effects and orbit.' }),
-	          _react2.default.createElement(_project2.default, { title: 'InsanFran', url: 'http://insanfran.us',
-	            filter: this.state.filterItem,
-	            technologies: ["rails", "react", "postgresql"],
-	            imageUrl: 'http://i.imgur.com/y79QzAR.gif',
-	            description: 'InsanFran is a full-stack application for sharing San Francisco photography. It was inspired by Instagram. Built with Rails, React, Flux. RESTful JSON API on backend, reusable view components on frontend, and lots of other good stuff.' }),
-	          _react2.default.createElement(_project2.default, { title: '99Bridges', url: 'http://ninetyninebridges.herokuapp.com',
-	            filter: this.state.filterItem,
-	            technologies: ["rails", "react", "postgresql", "bootstrap"],
-	            imageUrl: 'images/99bridges.png',
-	            description: '99Bridges is an original full-stack application that allows bridge engineers and enthusiasts to find and track information on bridges. Built with Ruby on Rails, React, Flux, React-bootstrap, Google Maps API' }),
-	          _react2.default.createElement(_project2.default, { title: 'Tron', url: 'http://momajd.github.io/Tron/',
-	            filter: this.state.filterItem,
-	            technologies: ["javascript", "jquery", "html5"],
-	            imageUrl: 'http://i.imgur.com/yphZFFg.gif',
-	            description: 'Remake of the classic arcade game using Javascript, jQuery, HTML5, and CSS. All rendering is done by manipulating HTML elements with jQuery.' }),
-	          _react2.default.createElement(_project2.default, { title: 'Unbeatable Tic-Tac-Toe', url: 'http://momajd.github.io/Unbeatable-Tic-Tac-Toe',
-	            filter: this.state.filterItem,
-	            technologies: ["javascript", "react", "algorithm"],
-	            imageUrl: 'images/tic-tac-toe.png',
-	            description: 'A tic-tac-toe game that can\'t be won. The computer player uses a poly-tree data stucture and depth-first-search algorithm to find the optimal moves. Built with JS and React.' }),
-	          _react2.default.createElement(_project2.default, { title: 'Ruby Chess AI', url: 'https://github.com/momajd/Chess-AI',
-	            filter: this.state.filterItem,
-	            technologies: ["ruby", "algorithm"],
-	            imageUrl: 'images/chess.png',
-	            description: 'Chess game with Computer AI playable in the terminal. Built in Ruby. Computer player uses a minimax algorithm in order to \'look ahead\'. Heavily object-oriented - utilizes inheritance and singleton design pattern.' }),
-	          _react2.default.createElement(_project2.default, { title: 'Rails Lite', url: 'https://github.com/momajd/Rails-Lite',
-	            filter: this.state.filterItem,
-	            technologies: ["ruby"],
-	            imageUrl: 'images/rails_lite.png',
-	            description: 'Rails Lite is a web server MVC framework inspired by the functionality of Ruby on Rails. Built in Ruby. Parses requests and finds matching routes using regular expression, envokes a controller action, and constructs a response using ERB templating.' }),
-	          _react2.default.createElement(_project2.default, { title: 'Mo Majd', url: 'http://momajd.com',
-	            filter: this.state.filterItem,
-	            technologies: ["react"],
-	            imageUrl: 'images/portfolio.png',
-	            description: 'The site you are currently on was built from scratch using React. The cool background is from the particles.js library' })
+	            imageUrl: 'images/sports-scrapper.png',
+	            description: '<Description goes here>.' }),
 	        )
 	      );
 	    }
@@ -28606,9 +28581,6 @@
 	    key: "render",
 	    value: function render() {
 	      var iconClasses = {
-	        "rails": "devicon-rails-plain",
-	        "ruby": "devicon-ruby-plain",
-	        "postgresql": "devicon-postgresql-plain",
 	        "javascript": "devicon-javascript-plain",
 	        "jquery": "devicon-jquery-plain",
 	        "html5": "devicon-html5-plain",

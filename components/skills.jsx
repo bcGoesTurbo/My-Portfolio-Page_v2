@@ -34,6 +34,10 @@ export default class Skills extends React.Component {
               <i className="devicon-css3-plain colored"></i>
               <p>CSS</p>
             </span>
+            <span className="skill">
+              <i className="devicon-nodejs-plain colored"></i>
+              <p>NodeJS</p>
+            </span>
 
           </div>
         </div>

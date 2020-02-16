@@ -15,7 +15,7 @@ export default class Home extends React.Component {
         <p className="description">Software Developer (Junior)</p>
 
         <div className="home-icons">
-          <a href="http://github.com/bcGoesTurbo">
+          <a href="http://github.com/momajd">
             <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <a href="http://linkedin.com/in/momajd">
